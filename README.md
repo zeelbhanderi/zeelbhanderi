@@ -25,12 +25,12 @@
 
 <!-- Social Media  -->
 
-<h3 align="center"><samp>Connect</samp></h3>
+<h3 align="center"><samp>Connect With Me</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
             <td align="center" width="100">
-                <a href="mailto:zeelbhanderi28@gmail.com" target="blank"
+                <a href="mailto:zeelbhanderi28@gmail.com" target="_blank"
                     style="color: white; text-decoration: none;"
                     onmouseover="this.style.textDecoration='underline'; this.style.textDecorationColor='white';"
                     onmouseout="this.style.textDecoration='none';">
@@ -39,7 +39,7 @@
                 </a>
             </td>
             <td align="center" width="100">
-                <a href="https://www.linkedin.com/in/zeelbhanderi/" target="blank"
+                <a href="https://www.linkedin.com/in/zeelbhanderi/" target="_blank"
                     style="color: white; text-decoration: none;"
                     onmouseover="this.style.textDecoration='underline'; this.style.textDecorationColor='white';"
                     onmouseout="this.style.textDecoration='none';">
@@ -48,13 +48,13 @@
                 </a>
             </td>
             <td align="center" width="100">
-                <a href="https://twitter.com/zeel_bhanderi" target="blank">
+                <a href="https://twitter.com/zeel_bhanderi" target="_blank">
                     <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
                     <h4 style="color: white;">X</h4>
                 </a>
             </td>
             <td align="center" width="100">
-                <a href="https://medium.com/@zeelbhanderi28" target="blank">
+                <a href="https://medium.com/@zeelbhanderi28" target="_blank">
                     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
                         alt="icon" width="45" height="45" />
                     <h4 style="color: white;">Medium</h4>
