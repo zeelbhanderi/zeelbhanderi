@@ -30,7 +30,7 @@
     <table align="center">
         <tr>
             <td align="center" width="100">
-                <a href="mailto:zeelbhanderi28@gmail.com" target="_blank"
+                <a href="mailto:info.zeelbhanderi@gmail.com" target="_blank"
                     style="color: white; text-decoration: none;"
                     onmouseover="this.style.textDecoration='underline'; this.style.textDecorationColor='white';"
                     onmouseout="this.style.textDecoration='none';">
