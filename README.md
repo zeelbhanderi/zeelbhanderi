@@ -2,7 +2,7 @@
 
 - 🌱 I’m a Flutter developer with 3+ years of experience, I develop software using extraordinary abilities, strategy, and design to meet any obstacle. I have worked on a wide range of projects, from simple apps to complex enterprise-level solutions. I am constantly amazed by the power and flexibility of Flutter, and I believe that it is the future of mobile app development.
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~014467ff5517ee3c06)
-- 📫 How to reach me :  **zeelbhanderi28@gmail.com**
+- 📫 How to reach me :  **info.zeelbhanderi@gmail.com**
 
 ---
 
